@@ -1,0 +1,8 @@
+body {font-family: sans-serif;
+}
+#picture {width: 50%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+
+}
